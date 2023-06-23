@@ -92,6 +92,9 @@ Pipeline has been created.
 
 ![img_15.png](sample_screenshots/img_15.png)
 
+Pipeline run triggered by published pipeline REST endpoint in AzureML studio.
+![img.png](sample_screenshots/img_18.png)
+
 Pipeline endpoint is shown.
 
 ![img_16.png](sample_screenshots/img_16.png)
