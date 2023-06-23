@@ -15,7 +15,7 @@ The main steps of the project are:
 7. Create and publish a pipeline
 8. Documentation
 
-![img.png](img.png)
+![img.png](sample_screenshots/img.png)
 
 
 ## Summary
@@ -39,66 +39,66 @@ and effectiveness of the Voting-Ensemble model can be enhanced.
 
 ## Automated ML Experiment
 For the AutoML experiment, the following relevant dataset was uploaded to Azure to make it available. 
-![img_1.png](img_1.png)
+![img_1.png](sample_screenshots/img_1.png)
 
 In the job section, we can see that the experiment is completed.
-![img_2.png](img_2.png)
+![img_2.png](sample_screenshots/img_2.png)
 
 The best model is identified by the chosen primary metric and can be used for further steps.
-![img_3.png](img_3.png)
+![img_3.png](sample_screenshots/img_3.png)
 
 ## Model deployment
 The best model is deployed.
 
-![img_4.png](img_4.png)
+![img_4.png](sample_screenshots/img_4.png)
 
 ## Enable Logging
 "Application Insights" is enables in the Details tab of the endpoint.
 
-![img_5.png](img_5.png)
+![img_5.png](sample_screenshots/img_5.png)
 
 Logs for enabling "Application Insights"
 
-![img_6.png](img_6.png)
+![img_6.png](sample_screenshots/img_6.png)
 
 ## Swagger Documentation
 Swagger is running on localhost.
 
-![img_7.png](img_7.png)
-![img_8.png](img_8.png)
-![img_9.png](img_9.png)
+![img_7.png](sample_screenshots/img_7.png)
+![img_8.png](sample_screenshots/img_8.png)
+![img_9.png](sample_screenshots/img_9.png)
 
 ## Consume Model Endpoints
 The interacting with the trained model is shown. The endpoint can be consumed and the JSON output from the model is
 produced.
 
-![img_10.png](img_10.png)
+![img_10.png](sample_screenshots/img_10.png)
 
 ## Create, Publish and Consume a Pipeline
 Bankmarketing dataset and AutoML module in pipeline.
 
-![img_11.png](img_11.png)
+![img_11.png](sample_screenshots/img_11.png)
 
 Scheduled run in ML studio.
 
-![img_12.png](img_12.png)
+![img_12.png](sample_screenshots/img_12.png)
 
 In Jupyter Notebook the step runs are shown with the "Use RunDetails Widget".
 
-![img_13.png](img_13.png)
-![img_14.png](img_14.png)
+![img_13.png](sample_screenshots/img_13.png)
+![img_14.png](sample_screenshots/img_14.png)
 
 Pipeline has been created.
 
-![img_15.png](img_15.png)
+![img_15.png](sample_screenshots/img_15.png)
 
 Pipeline endpoint is shown.
 
-![img_16.png](img_16.png)
+![img_16.png](sample_screenshots/img_16.png)
 
 "Published pipeline overview" showing REST enpoint and status is ACTIVE.
 
-![img_17.png](img_17.png)
+![img_17.png](sample_screenshots/img_17.png)
 
 
 ## Screencast
